@@ -20,7 +20,7 @@
   </a>
 </p>
 
----
+
 
 ## 👨‍💻 About Me
 
@@ -30,7 +30,7 @@
 - 🚀 Goal: Become a **Job-Ready Full Stack Developer**
 - ⚡ Fun Fact: *Consistency beats talent 😄*
 
----
+
 
 ## 🧠 What I'm Working On
 
@@ -38,7 +38,7 @@
 - ✅ Improving DSA & LeetCode problem solving
 - ✅ Making clean UI/UX and responsive websites
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -74,7 +74,7 @@
   </tr>
 </table>
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -87,40 +87,7 @@
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=suraj-kumar1-8&theme=tokyonight" />
 </p>
 
----
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=suraj-kumar1-8&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/suraj-kumar1-8?tab=repositories" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suraj-kumar1-8&repo=REPO_NAME_1&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/suraj-kumar1-8?tab=repositories" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suraj-kumar1-8&repo=REPO_NAME_2&theme=tokyonight" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/suraj-kumar1-8?tab=repositories" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suraj-kumar1-8&repo=REPO_NAME_3&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/suraj-kumar1-8?tab=repositories" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suraj-kumar1-8&repo=REPO_NAME_4&theme=tokyonight" />
-  </a>
-</p>
-
-📌 **Replace:** `REPO_NAME_1` `REPO_NAME_2` `REPO_NAME_3` `REPO_NAME_4`  
-with your real repo names.
-
----
 
 ## 📈 Contribution Graph
 
@@ -128,7 +95,7 @@ with your real repo names.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=suraj-kumar1-8&theme=tokyo-night" />
 </p>
 
----
+
 
 ## 🏆 Competitive Programming
 
@@ -160,26 +127,12 @@ with your real repo names.
   </a>
 </p>
 
----
-## 📌 Pinned Repositories
+## 📊 Coding Activity
 
 <p align="center">
-  <a href="https://github.com/suraj-kumar1-8/REPO1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suraj-kumar1-8&repo=REPO1&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/suraj-kumar1-8/REPO2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suraj-kumar1-8&repo=REPO2&theme=tokyonight" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Surajj_raj_18&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/suraj-kumar1-8/REPO3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suraj-kumar1-8&repo=REPO3&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/suraj-kumar1-8/REPO4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suraj-kumar1-8&repo=REPO4&theme=tokyonight" />
-  </a>
-</p>
 
-⭐ **Thanks for visiting my profile!** 😄  
-🚀 *Keep coding & keep growing!*
+
+
