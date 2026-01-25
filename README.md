@@ -1,79 +1,81 @@
 <h1 align="center">Hi 👋, I'm Suraj Kumar</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN Learner | DSA Enthusiast</h3>
+<h3 align="center">🚀 Full Stack Developer (MERN) | 🧠 DSA | ☁️ AWS & DevOps Learner</h3>
+
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer+%F0%9F%92%BB;DSA+%2B+MERN+%F0%9F%94%A5;Consistency+Beats+Talent+Everyday+%E2%9C%85" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&color=00F7FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer+%F0%9F%92%BB;DSA+Problem+Solver+%F0%9F%A7%A0;AWS+%26+DevOps+Learner+%E2%98%81%EF%B8%8F;Building+Projects+%26+Deploying+Apps+%F0%9F%9A%80;Consistency+Beats+Talent+%E2%9C%85" />
 </p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/suraj-kumar-68a38b297/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Suraj%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" height="45"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:surajkumargupta7491@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-surajkumargupta7491%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" height="45"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/HtVI08YLj0/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-000000?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow&labelColor=000000" height="45"/>
   </a>
-  <a href="https://github.com/suraj-kumar1-8?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Projects-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/suraj-kumar1-8" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" height="45"/>
   </a>
 </p>
+
+
+
 
 
 
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech CSE Student  
-- 💻 Currently learning **MERN Stack + DSA**
-- 🧠 Strong focus on **Problem Solving + Real Projects**
-- 🚀 Goal: Become a **Job-Ready Full Stack Developer**
-- ⚡ Fun Fact: *Consistency beats talent 😄*
+- 💻 Full Stack (MERN) + DSA + AWS/DevOps Learner  
+- 🧠 I love building scalable projects & solving coding problems  
+- 🎯 Goal: Crack **SDE / Full Stack roles**
+- ⚡ Fun Fact: *Consistency beats talent every day 🚀*
+
 
 
 
 ## 🧠 What I'm Working On
 
-- ✅ Building MERN projects (Frontend + Backend integration)
-- ✅ Improving DSA & LeetCode problem solving
-- ✅ Making clean UI/UX and responsive websites
+- 🔥 MERN Projects + API Integration
+- ⚡ DSA & LeetCode Problem Solving
+- 🎨 UI/UX + Responsive Design
+- ☁️ AWS & DevOps Learning
+
 
 
 
 ## 🛠️ Tech Stack
 
-<table align="center" width="100%">
+<table align="center">
   <tr>
     <td align="center" width="50%">
-      <br>
-      <h3>💻 Programming Languages</h3>
-      <img src="https://skillicons.dev/icons?i=c,cpp,python,js,java&perline=10&size=55" />
-      <br><br>
+      <h3>💻 Languages</h3>
+      <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js&perline=8&size=55" />
     </td>
     <td align="center" width="50%">
-      <br>
       <h3>🌐 Frontend</h3>
-      <img src="https://skillicons.dev/icons?i=html,css,tailwind,react&perline=10&size=55" />
-      <br><br>
+      <img src="https://skillicons.dev/icons?i=html,css,tailwind,react&perline=8&size=55" />
     </td>
   </tr>
 
   <tr>
     <td align="center" width="50%">
-      <br>
-      <h3>⚙️ Backend & Database</h3>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=10&size=55" />
-      <br><br>
+      <h3>⚙️ Backend & DB</h3>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=8&size=55" />
     </td>
     <td align="center" width="50%">
-      <br>
-      <h3>🧰 Tools</h3>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=10&size=55" />
-      <br><br>
+      <h3>☁️ DevOps & Tools</h3>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,aws,docker,linux&perline=8&size=55" />
     </td>
   </tr>
 </table>
-
 
 
 ## 📊 GitHub Stats
@@ -95,27 +97,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=suraj-kumar1-8&theme=tokyo-night" />
 </p>
 
-
-
-## 🏆 Competitive Programming
-
-
-
-<p align="center">
-  <a href="https://leetcode.com/u/HtVI08YLj0/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-000000?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
-  </a>
-  <a href="https://codeforces.com/profile/YOUR_CODEFORCES_ID" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  </a>
-  <a href="https://www.codechef.com/users/YOUR_CODECHEF_ID" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-  </a>
-</p>
-
-
-
-
 ## 🤝 Connect With Me
 
 <p align="center">
@@ -127,12 +108,10 @@
   </a>
 </p>
 
-## 📊 Coding Activity
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Surajj_raj_18&theme=tokyonight" />
+  💡 <b>Keep Learning. Keep Building. Keep Growing.</b> <br>
+  ⚡ Consistency beats talent every day 💯
 </p>
-
-
-
 
