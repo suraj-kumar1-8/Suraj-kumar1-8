@@ -77,6 +77,26 @@
   </tr>
 </table>
 
+## 🚀 LeetCode Progress
+
+### 📊 Overall Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/HtVI08YLj0?theme=dark&font=Karma&ext=contest)
+
+---
+
+### 🔥 Daily Practice Heatmap
+![LeetCode Heatmap](https://leetcode-stats-six.vercel.app/api?username=HtVI08YLj0)
+
+---
+
+### 🧠 Problem Solving Focus
+- Data Structures & Algorithms  
+- Arrays, Strings, Linked List  
+- Stack, Queue, Recursion  
+- Trees, Graphs  
+- Dynamic Programming  
+
+🔗 **LeetCode Profile:** https://leetcode.com/u/HtVI08YLj0/
 
 ## 📊 GitHub Stats
 
