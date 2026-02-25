@@ -77,29 +77,40 @@
   </tr>
 </table>
 
-## 💻 LeetCode Progress
+<div align="center">
 
-![Total Solved](https://img.shields.io/badge/dynamic/json?color=orange&label=Total%20Solved&query=totalSolved&url=https://leetcode-stats-api.herokuapp.com/HtVI08YLj0)
+<h2>💻 LeetCode Progress</h2>
 
-![Easy](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Easy&query=easySolved&url=https://leetcode-stats-api.herokuapp.com/HtVI08YLj0)
+<img src="https://img.shields.io/badge/dynamic/json?color=orange&label=Total%20Solved&query=totalSolved&url=https://leetcode-stats-api.herokuapp.com/HtVI08YLj0"/>
+&nbsp;
+<img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Easy&query=easySolved&url=https://leetcode-stats-api.herokuapp.com/HtVI08YLj0"/>
+&nbsp;
+<img src="https://img.shields.io/badge/dynamic/json?color=yellow&label=Medium&query=mediumSolved&url=https://leetcode-stats-api.herokuapp.com/HtVI08YLj0"/>
+&nbsp;
+<img src="https://img.shields.io/badge/dynamic/json?color=red&label=Hard&query=hardSolved&url=https://leetcode-stats-api.herokuapp.com/HtVI08YLj0"/>
 
-![Medium](https://img.shields.io/badge/dynamic/json?color=yellow&label=Medium&query=mediumSolved&url=https://leetcode-stats-api.herokuapp.com/HtVI08YLj0)
+<br><br>
 
-![Hard](https://img.shields.io/badge/dynamic/json?color=red&label=Hard&query=hardSolved&url=https://leetcode-stats-api.herokuapp.com/HtVI08YLj0)
+<h2>🚀 LeetCode Stats</h2>
 
----
+<img src="https://leetcard.jacoblin.cool/HtVI08YLj0?theme=dark&font=Baloo&ext=contest"/>
 
-## 🚀 LeetCode Stats Card
+<br><br>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/HtVI08YLj0?theme=dark&font=Baloo&ext=contest)
+<h2>🔥 LeetCode Heatmap</h2>
 
----
+<img src="https://leetcard.jacoblin.cool/HtVI08YLj0?theme=dark&font=Baloo&ext=heatmap"/>
 
-## 📊 About My DSA Journey
+<br><br>
 
-- Solved 100+ DSA problems on LeetCode
-- Strong in Arrays, Binary Search and Recursion
-- Currently focusing on Graph and Dynamic Programming
+<h2>📊 About My DSA Journey</h2>
+
+Solved 100+ DSA problems on LeetCode <br>
+Strong in Arrays, Binary Search and Recursion <br>
+Currently focusing on Graph and Dynamic Programming
+
+</div>
+
 
 
 ## 📊 GitHub Stats
