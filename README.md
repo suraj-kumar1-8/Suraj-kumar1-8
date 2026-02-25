@@ -88,7 +88,7 @@
 <img src="https://img.shields.io/badge/dynamic/json?color=yellow&label=Medium&query=mediumSolved&url=https://leetcode-stats-api.herokuapp.com/HtVI08YLj0"/>
 &nbsp;
 <img src="https://img.shields.io/badge/dynamic/json?color=red&label=Hard&query=hardSolved&url=https://leetcode-stats-api.herokuapp.com/HtVI08YLj0"/>
-
+<img src="https://leetcard.jacoblin.cool/HtVI08YLj0?theme=dark&font=Baloo"/>
 <br><br>
 
 <h2>🚀 LeetCode Stats</h2>
