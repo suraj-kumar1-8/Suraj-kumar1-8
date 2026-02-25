@@ -79,15 +79,7 @@
 
 <div align="center">
 
-<h2>💻 LeetCode Progress</h2>
-
-<img src="https://img.shields.io/badge/dynamic/json?color=orange&label=Total%20Solved&query=totalSolved&url=https://leetcode-stats-api.vercel.app/HtVI08YLj0"/>
-&nbsp;
-<img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Easy&query=easySolved&url=https://leetcode-stats-api.vercel.app/HtVI08YLj0"/>
-&nbsp;
-<img src="https://img.shields.io/badge/dynamic/json?color=yellow&label=Medium&query=mediumSolved&url=https://leetcode-stats-api.vercel.app/HtVI08YLj0"/>
-&nbsp;
-<img src="https://img.shields.io/badge/dynamic/json?color=red&label=Hard&query=hardSolved&url=https://leetcode-stats-api.vercel.app/HtVI08YLj0"/>
+p/HtVI08YLj0"/>
 <br><br>
 
 <h2>🚀 LeetCode Stats</h2>
