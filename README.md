@@ -77,6 +77,29 @@
   </tr>
 </table>
 
+## 💻 LeetCode Progress
+
+![Total Solved](https://img.shields.io/badge/dynamic/json?color=orange&label=Total%20Solved&query=totalSolved&url=https://leetcode-stats-api.herokuapp.com/HtVI08YLj0)
+
+![Easy](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Easy&query=easySolved&url=https://leetcode-stats-api.herokuapp.com/HtVI08YLj0)
+
+![Medium](https://img.shields.io/badge/dynamic/json?color=yellow&label=Medium&query=mediumSolved&url=https://leetcode-stats-api.herokuapp.com/HtVI08YLj0)
+
+![Hard](https://img.shields.io/badge/dynamic/json?color=red&label=Hard&query=hardSolved&url=https://leetcode-stats-api.herokuapp.com/HtVI08YLj0)
+
+---
+
+## 🚀 LeetCode Stats Card
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/HtVI08YLj0?theme=dark&font=Baloo&ext=contest)
+
+---
+
+## 📊 About My DSA Journey
+
+- Solved 100+ DSA problems on LeetCode
+- Strong in Arrays, Binary Search and Recursion
+- Currently focusing on Graph and Dynamic Programming
 
 
 ## 📊 GitHub Stats
