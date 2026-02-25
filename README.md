@@ -93,21 +93,13 @@
 
 <h2>🚀 LeetCode Stats</h2>
 
-<img src="https://leetcard.jacoblin.cool/HtVI08YLj0?theme=dark&font=Baloo&ext=contest"/>
 
-<br><br>
-
-<h2>🔥 LeetCode Heatmap</h2>
 
 <img src="https://leetcard.jacoblin.cool/HtVI08YLj0?theme=dark&font=Baloo&ext=heatmap"/>
 
 <br><br>
 
-<h2>📊 About My DSA Journey</h2>
 
-Solved 100+ DSA problems on LeetCode <br>
-Strong in Arrays, Binary Search and Recursion <br>
-Currently focusing on Graph and Dynamic Programming
 
 </div>
 
